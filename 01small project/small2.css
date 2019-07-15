@@ -1,0 +1,97 @@
+/* stylesheet02.html CSS */
+
+.table {
+    font-family: verdana;
+    color:#FF6C6C;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    vertical-align: middle;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr {
+    background-color: white;
+}
+
+th {
+    background-color: #4caf50;
+    color: white;
+}
+
+tr:hover {
+    background-color: yellow;
+}
+
+
+
+
+
+
+.title1 {
+	color: white;
+    font-size: 60px;
+}
+
+.title2 {
+	color: white;
+    font-size: 30px;
+}
+
+.side {
+    color: #FF6C6C;
+    background-color: #FFCBCB;
+    margin:0;
+}
+
+.footer {
+    width: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    
+}
+
+.main {
+    background-color: white;
+    padding: 10px;
+}
+
+.menu {
+    float:right;
+}
+
+.menu li {
+    list-style-type: none;
+    background-color: #FF6C6C;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+    width: 150px;
+    border: 1px solid #FF6C6C;
+    
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #FF6C6C;
+    font-weight: bold;
+}
+
+
+.title3 {
+    color:#FF6C6C;
+
+}
+
